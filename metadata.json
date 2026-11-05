@@ -1,0 +1,6 @@
+{
+  "name": "SalesPulse - Regional Revenue & AI Shift Intelligence",
+  "description": "Upload sales order CSVs to calculate total revenue by region and quarter, with interactive charts, pivot tables, and a strictly grounded three-sentence AI summary of Q2 to Q3 changes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
